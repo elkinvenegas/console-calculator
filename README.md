@@ -7,7 +7,7 @@
 
 ### 🎞️ Program Demo
 
-![Console Calculator Demo](Console_calculator.gif)
+![Console Calculator Demo](console_calculator.gif)
 
 
 ## 📑 Table of Contents
