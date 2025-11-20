@@ -5,6 +5,11 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 
+### 🎞️ Program Demo
+
+![Console Calculator Demo](Console_calculator.gif)
+
+
 ## 📑 Table of Contents
 
 - [📘 Overview](#-overview)
